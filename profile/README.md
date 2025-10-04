@@ -1,7 +1,7 @@
 # AGO — The Customer Operations Hub for Outstanding Experiences
 
 Deliver new customer experiences with AI agents at every stage of the customer journey.  
-AGO automates support, scales operations, and ensures human-like accuracy across all channels.
+[AGO](https://useago.com/) automates support, scales operations, and ensures human-like accuracy across all channels.
 
 ---
 
